@@ -15,6 +15,7 @@
         <module name="health_backend" />
         <module name="health_common" />
         <module name="health_interface" />
+        <module name="health_jobs" />
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel target="1.8" />
